@@ -1,0 +1,6 @@
+{
+  "$schema": "./node_modules/@react-native-firebase/app/firebase-schema.json",
+  "react-native": {
+    "google_analytics_automatic_screen_reporting_enabled": false
+  }
+}
