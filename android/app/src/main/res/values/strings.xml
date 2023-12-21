@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <string name="app_name">Paleo Robbie</string>
+  <string name="facebook_app_id">714691576432527</string>
+  <string name="facebook_client_token">a4f7447db8351fe464000cb4396d4d50</string>
+  <string name="line_channel_id" translatable="false">1657355093</string>
+</resources>

@@ -1,0 +1,14 @@
+{
+  "build": {
+    "preview": {
+      "ios": {
+        "simulator": true,
+        "cocoapods": "1.10.2"
+      }
+    },
+    "production": {}
+  },
+  "cli": {
+    "version": ">= 0.48.2"
+  }
+}
